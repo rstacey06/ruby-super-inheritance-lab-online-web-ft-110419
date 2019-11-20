@@ -6,3 +6,4 @@ class Chatty_student < Student
   end
 end
 
+chatty_student
