@@ -7,3 +7,4 @@ class Chatty_student < Student
 end
 
 chatty_student = Chatty_student.new 
+chatty_student.hello
