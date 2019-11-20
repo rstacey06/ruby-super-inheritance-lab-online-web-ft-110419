@@ -1,7 +1,6 @@
 class Chatty_student 
   
-  def hello < Student
+  def hello 
     super 
   end
-  hello = 
 end
